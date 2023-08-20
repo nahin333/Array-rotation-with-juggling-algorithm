@@ -1,1 +1,1 @@
-# Array-rotation-with-juggling-algorithm
+# Array-rotation-with-range-sorting
